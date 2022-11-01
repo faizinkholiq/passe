@@ -1,2 +1,4 @@
 vendor/
 bin/
+db/*
+!db/*.sample.*
